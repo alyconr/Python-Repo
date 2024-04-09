@@ -1,0 +1,7 @@
+setup.py
+functions/_init_.py
+functions/ejerciciosgeneralesday3.py
+functions.egg-info/PKG-INFO
+functions.egg-info/SOURCES.txt
+functions.egg-info/dependency_links.txt
+functions.egg-info/top_level.txt
